@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-Apaixonado por tecnologia, programação e aprendizado contínuo.
+Interessada por tecnologia, programação e aprendizado contínuo.
 </p>
 
 <hr>
