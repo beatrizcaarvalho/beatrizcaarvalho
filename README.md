@@ -21,10 +21,10 @@ Atualmente estou desenvolvendo minhas habilidades em programação, sistemas ope
 <h2>📈 Objetivos para 2026</h2>
 
 <ul>
-  <li>📌 Aprimorar conhecimentos em Python</li>
-  <li>📌 Criar projetos próprios</li>
-  <li>📌 Desenvolver um portfólio</li>
-  <li>📌 Contribuir para projetos open source</li>
+📌 Aprimorar conhecimentos em Python</li>
+📌 Criar projetos próprios</li>
+📌 Desenvolver um portfólio</li>
+📌 Contribuir para projetos open source</li>
 </ul>
 
 <hr>
@@ -32,12 +32,12 @@ Atualmente estou desenvolvendo minhas habilidades em programação, sistemas ope
 <h2>📚 Atualmente Aprendendo</h2>
 
 <ul>
-  <li>🐍 Python</li>
-  <li>🐧 Linux Ubuntu</li>
-  <li>📖 Engenharia de Software</li>
-  <li>🤖 Arduino</li>
-  <li>⚙️ C++</li>
-  <li>💻 Windows CMD</li>
+🐍 Python</li>
+🐧 Linux Ubuntu</li>
+📖 Engenharia de Software</li>
+🤖 Arduino</li>
+⚙️ C++</li>
+💻 Windows CMD</li>
 </ul>
 
 <hr>
@@ -45,12 +45,12 @@ Atualmente estou desenvolvendo minhas habilidades em programação, sistemas ope
 <h2>💡 Competências</h2>
 
 <ul>
-  <li>✔️ Autonomia</li>
-  <li>✔️ Gestão de Tempo</li>
-  <li>✔️ Desenvolvimento de Projetos de Software</li>
-  <li>✔️ Organização</li>
-  <li>✔️ Resolução de Problemas</li>
-  <li>✔️ Aprendizado Contínuo</li>
+✔️ Autonomia</li>
+✔️ Gestão de Tempo</li>
+✔️ Desenvolvimento de Projetos de Software</li>
+✔️ Organização</li>
+✔️ Resolução de Problemas</li>
+✔️ Aprendizado Contínuo</li>
 </ul>
 
 <hr>
