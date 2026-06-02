@@ -18,6 +18,16 @@ Atualmente estou desenvolvendo minhas habilidades em programação, sistemas ope
 </p>
 
 <hr>
+<h2>📈 Objetivos para 2026</h2>
+
+<ul>
+  <li>📌 Aprimorar conhecimentos em Python</li>
+  <li>📌 Criar projetos próprios</li>
+  <li>📌 Desenvolver um portfólio</li>
+  <li>📌 Contribuir para projetos open source</li>
+</ul>
+
+<hr>
 
 <h2>📚 Atualmente Aprendendo</h2>
 
@@ -50,17 +60,6 @@ Atualmente estou desenvolvendo minhas habilidades em programação, sistemas ope
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,linux,arduino,git,vscode" />
 </p>
-
-<hr>
-
-<h2>📈 Objetivos para 2026</h2>
-
-<ul>
-  <li>📌 Aprimorar conhecimentos em Python</li>
-  <li>📌 Criar projetos próprios</li>
-  <li>📌 Desenvolver um portfólio</li>
-  <li>📌 Contribuir para projetos open source</li>
-</ul>
 
 <hr>
 
