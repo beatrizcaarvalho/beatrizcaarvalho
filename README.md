@@ -4,6 +4,10 @@
 🎓 Estudante de Desenvolvimento de Sistemas | SESI-SENAI Cruzeiro/Lorena
 </h3>
 
+<p align="center">
+Apaixonado por tecnologia, programação e aprendizado contínuo.
+</p>
+
 <hr>
 
 <h2>🚀 Sobre Mim</h2>
@@ -18,26 +22,16 @@ Atualmente estou desenvolvendo minhas habilidades em programação, sistemas ope
 </p>
 
 <hr>
-<h2>📈 Objetivos para 2026</h2>
-
-<ul>
-</li>📌 Aprimorar conhecimentos em Python</li>
-</li>📌 Criar projetos próprios</li>
-</li>📌 Desenvolver um portfólio</li>
-</li>📌 Contribuir para projetos open source</li>
-</ul>
-
-<hr>
 
 <h2>📚 Atualmente Aprendendo</h2>
 
 <ul>
-</li>🐍 Python</li>
-</li>🐧 Linux Ubuntu</li>
-</li>📖 Engenharia de Software</li>
-</li>🤖 Arduino</li>
-</li>⚙️ C++</li>
-</li>💻 Windows CMD</li>
+  <li>🐍 Python</li>
+  <li>🐧 Linux Ubuntu</li>
+  <li>📖 Engenharia de Software</li>
+  <li>🤖 Arduino</li>
+  <li>⚙️ C++</li>
+  <li>💻 Windows CMD</li>
 </ul>
 
 <hr>
@@ -45,12 +39,12 @@ Atualmente estou desenvolvendo minhas habilidades em programação, sistemas ope
 <h2>💡 Competências</h2>
 
 <ul>
-✔️ Autonomia</li>
-✔️ Gestão de Tempo</li>
-✔️ Desenvolvimento de Projetos de Software</li>
-✔️ Organização</li>
-✔️ Resolução de Problemas</li>
-✔️ Aprendizado Contínuo</li>
+  <li>✔️ Autonomia</li>
+  <li>✔️ Gestão de Tempo</li>
+  <li>✔️ Desenvolvimento de Projetos de Software</li>
+  <li>✔️ Organização</li>
+  <li>✔️ Resolução de Problemas</li>
+  <li>✔️ Aprendizado Contínuo</li>
 </ul>
 
 <hr>
@@ -60,6 +54,17 @@ Atualmente estou desenvolvendo minhas habilidades em programação, sistemas ope
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,linux,arduino,git,vscode" />
 </p>
+
+<hr>
+
+<h2>📈 Objetivos para 2026</h2>
+
+<ul>
+  <li>📌 Aprimorar conhecimentos em Python</li>
+  <li>📌 Criar projetos próprios</li>
+  <li>📌 Desenvolver um portfólio</li>
+  <li>📌 Contribuir para projetos open source</li>
+</ul>
 
 <hr>
 
