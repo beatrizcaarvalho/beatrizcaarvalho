@@ -1,78 +1,79 @@
-```html
-<div align="center">
+<h1 align="center">Olá, eu sou Beatriz! 👋</h1>
 
-# Olá, eu sou Beatriz! 👋
+<h3 align="center">
+🎓 Estudante de Desenvolvimento de Sistemas | SESI-SENAI Cruzeiro/Lorena
+</h3>
 
-### 💻 Estudante de Desenvolvimento de Sistemas
+<hr>
 
-</div>
-
----
-
-## 🚀 Sobre Mim
-
-Sou estudante do curso técnico de **Desenvolvimento de Sistemas** no **SESI-SENAI de Cruzeiro/Lorena**. Tenho interesse por tecnologia, programação e desenvolvimento de software, buscando constantemente aprender novas ferramentas e aprimorar minhas habilidades.Além da programação, possuo facilidade na criação e organização de documentações técnicas, auxiliando no registro, planejamento e desenvolvimento de projetos. Estou em busca de oportunidades para aprender, desenvolver projetos e expandir meus conhecimentos na área de tecnologia.
-
----
-
-## 📚 Atualmente Estou Aprendendo
-
-- 🐍 Python
-- 🐧 Linux Ubuntu
-- 📐 Engenharia de Software
-- 🤖 Arduino
-- ⚙️ C++
-- 💻 Windows CMD
-
----
-
-## 🛠️ Tecnologias e Ferramentas
+<h2>🚀 Sobre Mim</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,linux,arduino,git,github,vscode" />
+Sou estudante do curso técnico de Desenvolvimento de Sistemas no SESI-SENAI de Cruzeiro/Lorena.
+Atualmente estou desenvolvendo minhas habilidades em programação, sistemas operacionais, engenharia de software e desenvolvimento de projetos.
 </p>
 
----
+<p>
+🎯 Objetivo: Construir soluções que resolvam problemas reais e evoluir constantemente na área da tecnologia.
+</p>
 
-## ⭐ Qualidades
+<hr>
 
-- ✔️ Autonomia
-- ✔️ Gestão de Tempo
-- ✔️ Desenvolvimento de Projetos de Software
-- ✔️ Organização
-- ✔️ Trabalho em Equipe
-- ✔️ Aprendizado Contínuo
-- ✔️ Criação de Documentações Técnicas
+<h2>📚 Atualmente Aprendendo</h2>
 
----
+<ul>
+  <li>🐍 Python</li>
+  <li>🐧 Linux Ubuntu</li>
+  <li>📖 Engenharia de Software</li>
+  <li>🤖 Arduino</li>
+  <li>⚙️ C++</li>
+  <li>💻 Windows CMD</li>
+</ul>
 
-## 🎯 Objetivos
+<hr>
 
-- Aprimorar meus conhecimentos em programação.
-- Desenvolver projetos cada vez mais completos.
-- Construir um portfólio profissional.
-- Contribuir para projetos de tecnologia.
+<h2>💡 Competências</h2>
 
----
+<ul>
+  <li>✔️ Autonomia</li>
+  <li>✔️ Gestão de Tempo</li>
+  <li>✔️ Desenvolvimento de Projetos de Software</li>
+  <li>✔️ Organização</li>
+  <li>✔️ Resolução de Problemas</li>
+  <li>✔️ Aprendizado Contínuo</li>
+</ul>
 
-## 📊 Estatísticas GitHub
+<hr>
+
+<h2>🛠️ Tecnologias e Ferramentas</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,arduino,git,vscode" />
+</p>
+
+<hr>
+
+<h2>📈 Objetivos para 2026</h2>
+
+<ul>
+  <li>📌 Aprimorar conhecimentos em Python</li>
+  <li>📌 Criar projetos próprios</li>
+  <li>📌 Desenvolver um portfólio</li>
+  <li>📌 Contribuir para projetos open source</li>
+</ul>
+
+<hr>
+
+<h2>📫 Contato</h2>
+
+<p>
+📧 Email:beatrizfigueira6410@gmail.com
+<br>
+💻 GitHub: github.com/beatrizcaarvalho
+</p>
+
+<hr>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&theme=tokyonight"/>
+  <i>"Aprendendo hoje para criar as soluções de amanhã."</i>
 </p>
-
----
-
-## 📫 Contato
-
-📧 E-mail:beatrizfigueira6410@gmail.com
-
----
-
-<div align="center">
-
-### ✨ "A tecnologia move o mundo, e eu estou aprendendo a construí-lo." ✨
-
-</div>
-```
